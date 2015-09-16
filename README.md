@@ -1,7 +1,6 @@
 # TrafficMap
 
-Build a Traffic Feed from a Traffic Camera
-===============================
+### Build a Traffic Feed from a Traffic Camera
 
 A traffic map has green/yellow/red or other kinds of roads indicating traffic status on map. It is built upon real time traffic data feed.
 
